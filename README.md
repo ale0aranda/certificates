@@ -3,6 +3,7 @@
 
 ## [Boot dev](https://www.boot.dev/dashboard) 🚀
 - 🐙 [Git 1](https://github.com/alejyoo/certificates/blob/main/boot-dev/learn-git.png)
+- 🐙 [Git 2](https://github.com/alejyoo/certificates/blob/main/boot-dev/learn-git2.png)
 - 🐧 [Linux](https://github.com/alejyoo/certificates/blob/main/boot-dev/learn-linux.png)
 - ⚡  [Javascript](https://github.com/alejyoo/certificates/blob/main/boot-dev/learn-javascript.png)
 
