@@ -7,6 +7,11 @@
 - 🐧 [Linux](https://github.com/alejyoo/certificates/blob/main/boot-dev/learn-linux.png)
 - ⚡  [Javascript](https://github.com/alejyoo/certificates/blob/main/boot-dev/learn-javascript.png)
 
+# [Sercotec](https://www.sercotec.cl/) 🏢
+- 📣 [Marketing](https://github.com/alejyoo/certificates/blob/main/sercotec/Marketing.pdf)
+
+# Aprendesql
+- ⛁ [SQL](https://github.com/alejyoo/certificates/blob/main/aprendesql-dev/aprendesql-dev.pdf)
+
 ## Contact 🔗
-- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-arancibia)
 - 📫 alejandro.arancibia.aranda@gmail.com
